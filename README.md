@@ -1,4 +1,5 @@
 # Getting Started with Create React App TO-DO-LIST
+Criando um to do list em typescript react procurando entender melhor sobre a linguagem e seus conceito
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
